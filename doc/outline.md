@@ -1,0 +1,2 @@
+## What does it do?
+This software is a server running on a linux/kde desktop, hosting a webpage to the local network, in which each audio stream from a software has its own fader, controlling its loudness on the desktop. The master volume has its own fader
